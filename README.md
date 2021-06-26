@@ -1,9 +1,9 @@
-### <h1>Hey there awesome visitor!</h1> 👋
+### <h1>Hey there awesome visitor! 👋</h1>
 <hr>
-- <h6>🔭 I’m currently working on Discord.js</h6>
-- <h6>🌱 I’m currently learning Node.js</h6>
-- <h6>📫 How to reach me: Discord - jamun#9889 , Gmail - ash420hh@gmail.com</h6>
-- <h6>⚡ Fun fact: The letter "a" doesn't appear in any number written out until "one thousand"</h6>
+<h6>- 🔭 I’m currently working on Discord.js</h6>
+<h6>- 🌱 I’m currently learning Node.js</h6>
+<h6>- 📫 How to reach me: Discord - jamun#9889 , Gmail - ash420hh@gmail.com</h6>
+<h6>- ⚡ Fun fact: The letter "a" doesn't appear in any number written out until "one thousand"</h6>
 <br>
  My name is Ashish aka ASH and I'm a Web developer and a Video Games lover. Always Excited to create new stuff or learn something new. I'm from India, currently unemployed. You can contact me on Discord: jamun#9889/.xD#8114
 <br>
