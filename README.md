@@ -1,6 +1,5 @@
-<br>
 ### Hey there awesome visitor! 👋
-</br>
+<hr>
 - 🔭 I’m currently working on Discord.js
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: Discord - jamun#9889 , Gmail - ash420hh@gmail.com
