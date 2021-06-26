@@ -1,4 +1,4 @@
-### Hey there awesome visitor! 👋
+### <strong>Hey there awesome visitor!</strong> 👋
 <hr>
 - 🔭 I’m currently working on Discord.js
 - 🌱 I’m currently learning Node.js
