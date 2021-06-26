@@ -7,4 +7,4 @@
 
  My name is Ashish aka ASH and I'm a Web developer and a Video Games lover. Always Excited to create new stuff or learn something new. I'm from India, currently unemployed. You can contact me on Discord: jamun#9889/.xD#8114
 
-https://github-readme-stats.vercel.app/api?username=Ash-6576&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src=https://github-readme-stats.vercel.app/api?username=Ash-6576&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
