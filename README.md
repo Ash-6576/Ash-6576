@@ -7,4 +7,4 @@
 <h6>- 📫 How to reach me: Discord - jamun#9889 , Gmail - ash420hh@gmail.com</h6>
 <h6>- ⚡ Fun fact: The letter "a" doesn't appear in any number written out until "one thousand"</h6>
 <hr>
-<img src='https://github-readme-stats.vercel.app/api?username=Ash-6576&&show_icons=true&title_color=ff63ea&icon_color=e34b4b&text_color=daf7dc&bg_color=2f2a52'>
+<img src='https://github-readme-stats.vercel.app/api?username=Ash-6576&&show_icons=true&title_color=ff63ea&icon_color=e34b4b&text_color=daf7dc&bg_color=2f2a51'>
